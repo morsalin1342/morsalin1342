@@ -28,7 +28,7 @@ I'm the founder of [Easy Digital International Limited](https://theeasydigital.c
 - 🐦 X: [@Morsalin1342](https://x.com/morsalin1342)
 - 💼 LinkedIn: [Morsalin1342](https://linkedin.com/in/morsalin1342)
 - 📘 Facebook: [Morsalin1342](https://facebook.com/morsalin1342)
-- 💬 Discord: [Morsalin#1234](#) *(Replace with actual Discord username if applicable)*
+- 💬 Discord: Morsalin#1234
 
 ## ⭐ GitHub Stats
 ![Morsalin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morsalin1342&show_icons=true&theme=radical)
