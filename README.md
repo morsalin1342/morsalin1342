@@ -21,6 +21,7 @@ Client work is described generically, without client names.
 | [AI Jewellery Cataloguing](https://morsalin.online/work/jewelry-cataloguing) | Two-stage Gemini vision pipeline on Vertex AI that turns supplier spreadsheets into auction lots |
 | [Anti-Piracy Video LMS](https://morsalin.online/work/anti-piracy-video-lms) | Laravel learning platform with DRM streaming, per-viewer forensic watermarks and single-device sessions |
 | [Centralized Fleet Control](https://morsalin.online/work/centralized-fleet-control) | Go WebSocket relay and node agent that run Ed25519-signed tasks with no inbound ports open |
+| [Hospital Website & Serial Booking System](https://morsalin.online/work/hospital-booking) | Bilingual (English/Bengali) hospital site where patients and reception book serials from one queue. 10 staff roles, audited access, 305 tests. Built, yet to go live |
 
 ### Open source
 
