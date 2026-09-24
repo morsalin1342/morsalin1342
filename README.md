@@ -3,6 +3,8 @@
 **Contract software engineer: SaaS platforms, cloud infrastructure and AI pipelines.**
 I've worked independently since 2014, from Dhaka, Bangladesh (UTC+6), and I'm available for remote part-time or contract work on US Eastern Time.
 
+My main work is my own company, **[Easy Digital International Limited](https://theeasydigital.com)**, an independent software vendor (ISV) and cloud marketplace publisher, and a partner of Google Cloud, Microsoft Azure, DigitalOcean, Alibaba Cloud and Vultr. Alongside it, I've been Tech Lead at [Serenity Gallerie](https://serenitygallerie.com) since late 2025.
+
 I design, build and run systems end to end, from architecture to release. I usually work alone, and I leave documentation so a team can take over. My main tools are Go, PHP/Laravel, Python, Vue and Google Cloud, with Docker, nginx and Caddy.
 
 → **[morsalin.online](https://morsalin.online)** has the full case studies.
