@@ -1,7 +1,7 @@
 ## MD Morsalin
 
 **Contract software engineer: SaaS platforms, cloud infrastructure and AI pipelines.**
-I've worked independently since 2014, from Dhaka, Bangladesh (UTC+6), and I'm available for remote part-time or contract work on US Eastern Time.
+Self-taught, I started building for clients at 16 and have worked independently since 2014, from Dhaka, Bangladesh (UTC+6), and I'm available for remote part-time or contract work on US Eastern Time.
 
 My main work is my own company, **[Easy Digital International Limited](https://theeasydigital.com)**, an independent software vendor (ISV) and cloud marketplace publisher, and a partner of Google Cloud, Microsoft Azure, DigitalOcean, Alibaba Cloud and Vultr. Alongside it, I've been Tech Lead at [Serenity Gallerie](https://serenitygallerie.com) since late 2025.
 
