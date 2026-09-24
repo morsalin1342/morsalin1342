@@ -33,7 +33,7 @@ Client work is described generically, without client names.
 
 ### Credentials
 
-- Google Cloud **Architecting with Google Compute Engine** specialization (Coursera, 2020)
+- Google Cloud specializations on Coursera (2020): **Architecting with Google Compute Engine** and **Preparing for the Cloud Engineer certification**
 - [9 Google Cloud skill badges](https://www.credly.com/users/morsalin1342/badges) (Credly, 2025), including Terraform, Load Balancing and Monitoring
 
 ### Contact
