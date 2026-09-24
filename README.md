@@ -1,7 +1,7 @@
 ## MD Morsalin
 
 **Contract software engineer: SaaS platforms, cloud infrastructure and AI pipelines.**
-I've worked independently since 2014, from Dhaka, Bangladesh (UTC+6), and I'm available for remote part-time or contract work.
+I've worked independently since 2014, from Dhaka, Bangladesh (UTC+6), and I'm available for remote part-time or contract work on US Eastern Time.
 
 I design, build and run systems end to end, from architecture to release. I usually work alone, and I leave documentation so a team can take over. My main tools are Go, PHP/Laravel, Python, Vue and Google Cloud, with Docker, nginx and Caddy.
 
